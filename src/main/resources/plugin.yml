@@ -1,0 +1,9 @@
+name: LogixScythes
+version: 0.1
+api-version: 1.13
+description: Adds custom enchantments which allow for easier crop harvesting.
+author: Dr. Logiq
+main: com.plugins.drlogiq.scythes.LogixScythes
+#TODO: website:
+prefix: LogixScythes
+#commands:

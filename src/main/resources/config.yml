@@ -1,0 +1,3 @@
+# Whether or not to prefix messages with the plugin's name in brackets.
+# Plugin default: YES
+PrefixMessages: YES
